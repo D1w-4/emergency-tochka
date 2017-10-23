@@ -1,0 +1,755 @@
+{
+  "response": {
+    "GeoObjectCollection": {
+      "metaDataProperty": {
+        "GeocoderResponseMetaData": {
+          "request": " Свердловская обл, Екатеринбург г, Заводская ул, дом № 29",
+          "found": "9",
+          "results": "10"
+        }
+      },
+      "featureMember": [
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Екатеринбург, Заводская улица, 29",
+                "precision": "exact",
+                "Address": {
+                  "country_code": "RU",
+                  "postal_code": "620109",
+                  "formatted": "Свердловская область, Екатеринбург, Заводская улица, 29",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "муниципальное образование Город Екатеринбург"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Екатеринбург"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "29"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Екатеринбург, Заводская улица, 29",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                        "Locality": {
+                          "LocalityName": "Екатеринбург",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица",
+                            "Premise": {
+                              "PremiseNumber": "29",
+                              "PostalCode": {
+                                "PostalCodeNumber": "620109"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "Екатеринбург, Свердловская область, Россия",
+            "name": "Заводская улица, 29",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.54999 56.829945",
+                "upperCorner": "60.5582 56.834447"
+              }
+            },
+            "Point": {
+              "pos": "60.554095 56.832196"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Екатеринбург, Железнодорожный район, поселок Северка, 2-я Заводская улица, 29",
+                "precision": "exact",
+                "Address": {
+                  "country_code": "RU",
+                  "postal_code": "620920",
+                  "formatted": "Свердловская область, Екатеринбург, Железнодорожный район, поселок Северка, 2-я Заводская улица, 29",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "муниципальное образование Город Екатеринбург"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Екатеринбург"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "Железнодорожный район"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "поселок Северка"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "2-я Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "29"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Екатеринбург, Железнодорожный район, поселок Северка, 2-я Заводская улица, 29",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                        "Locality": {
+                          "LocalityName": "Екатеринбург",
+                          "DependentLocality": {
+                            "DependentLocalityName": "Железнодорожный район",
+                            "DependentLocality": {
+                              "DependentLocalityName": "поселок Северка",
+                              "Thoroughfare": {
+                                "ThoroughfareName": "2-я Заводская улица",
+                                "Premise": {
+                                  "PremiseNumber": "29",
+                                  "PostalCode": {
+                                    "PostalCodeNumber": "620920"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "поселок Северка, Железнодорожный район, Екатеринбург, Свердловская область, Россия",
+            "name": "2-я Заводская улица, 29",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.289182 56.86833",
+                "upperCorner": "60.297392 56.872826"
+              }
+            },
+            "Point": {
+              "pos": "60.293287 56.870578"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Екатеринбург, Железнодорожный район, поселок Северка, 1-я Заводская улица, 29",
+                "precision": "exact",
+                "Address": {
+                  "country_code": "RU",
+                  "postal_code": "620920",
+                  "formatted": "Свердловская область, Екатеринбург, Железнодорожный район, поселок Северка, 1-я Заводская улица, 29",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "муниципальное образование Город Екатеринбург"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Екатеринбург"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "Железнодорожный район"
+                    },
+                    {
+                      "kind": "district",
+                      "name": "поселок Северка"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "1-я Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "29"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Екатеринбург, Железнодорожный район, поселок Северка, 1-я Заводская улица, 29",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "муниципальное образование Город Екатеринбург",
+                        "Locality": {
+                          "LocalityName": "Екатеринбург",
+                          "DependentLocality": {
+                            "DependentLocalityName": "Железнодорожный район",
+                            "DependentLocality": {
+                              "DependentLocalityName": "поселок Северка",
+                              "Thoroughfare": {
+                                "ThoroughfareName": "1-я Заводская улица",
+                                "Premise": {
+                                  "PremiseNumber": "29",
+                                  "PostalCode": {
+                                    "PostalCodeNumber": "620920"
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "поселок Северка, Железнодорожный район, Екатеринбург, Свердловская область, Россия",
+            "name": "1-я Заводская улица, 29",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.287834 56.867085",
+                "upperCorner": "60.296045 56.871581"
+              }
+            },
+            "Point": {
+              "pos": "60.291939 56.869333"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Берёзовский, Заводская улица, 19",
+                "precision": "near",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Свердловская область, Берёзовский, Заводская улица, 19",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Берёзовский городской округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Берёзовский"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "19"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Берёзовский, Заводская улица, 19",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Берёзовский городской округ",
+                        "Locality": {
+                          "LocalityName": "Берёзовский",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица",
+                            "Premise": {
+                              "PremiseNumber": "19"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "Берёзовский, Свердловская область, Россия",
+            "name": "Заводская улица, 19",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.760833 56.901621",
+                "upperCorner": "60.769044 56.906114"
+              }
+            },
+            "Point": {
+              "pos": "60.764938 56.903868"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Арамильский городской округ, посёлок Арамиль, Заводская улица, 31",
+                "precision": "near",
+                "Address": {
+                  "country_code": "RU",
+                  "postal_code": "624002",
+                  "formatted": "Свердловская область, Арамильский городской округ, посёлок Арамиль, Заводская улица, 31",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Арамильский городской округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "посёлок Арамиль"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "31"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Арамильский городской округ, посёлок Арамиль, Заводская улица, 31",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Арамильский городской округ",
+                        "Locality": {
+                          "LocalityName": "посёлок Арамиль",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица",
+                            "Premise": {
+                              "PremiseNumber": "31",
+                              "PostalCode": {
+                                "PostalCodeNumber": "624002"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "посёлок Арамиль, Арамильский городской округ, Свердловская область, Россия",
+            "name": "Заводская улица, 31",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.907133 56.709215",
+                "upperCorner": "60.915343 56.713731"
+              }
+            },
+            "Point": {
+              "pos": "60.911238 56.711473"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "street",
+                "text": "Россия, Свердловская область, городской округ Верхняя Пышма, поселок Исеть, Заводская улица",
+                "precision": "street",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Свердловская область, городской округ Верхняя Пышма, поселок Исеть, Заводская улица",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Верхняя Пышма"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "поселок Исеть"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, городской округ Верхняя Пышма, поселок Исеть, Заводская улица",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Верхняя Пышма",
+                        "Locality": {
+                          "LocalityName": "поселок Исеть",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "поселок Исеть, городской округ Верхняя Пышма, Свердловская область, Россия",
+            "name": "Заводская улица",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.358837 56.969244",
+                "upperCorner": "60.35978 56.972183"
+              }
+            },
+            "Point": {
+              "pos": "60.35925 56.970726"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Верхняя Пышма, Заводская улица, 24",
+                "precision": "near",
+                "Address": {
+                  "country_code": "RU",
+                  "postal_code": "624092",
+                  "formatted": "Свердловская область, Верхняя Пышма, Заводская улица, 24",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "городской округ Верхняя Пышма"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "Верхняя Пышма"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "24"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Верхняя Пышма, Заводская улица, 24",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "городской округ Верхняя Пышма",
+                        "Locality": {
+                          "LocalityName": "Верхняя Пышма",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица",
+                            "Premise": {
+                              "PremiseNumber": "24",
+                              "PostalCode": {
+                                "PostalCodeNumber": "624092"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "Верхняя Пышма, Свердловская область, Россия",
+            "name": "Заводская улица, 24",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.601086 56.959185",
+                "upperCorner": "60.609296 56.96367"
+              }
+            },
+            "Point": {
+              "pos": "60.605191 56.961428"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "street",
+                "text": "Россия, Свердловская область, Белоярский городской округ, посёлок Белоярская Застава, Заводская улица",
+                "precision": "street",
+                "Address": {
+                  "country_code": "RU",
+                  "formatted": "Свердловская область, Белоярский городской округ, посёлок Белоярская Застава, Заводская улица",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Белоярский городской округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "посёлок Белоярская Застава"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Белоярский городской округ, посёлок Белоярская Застава, Заводская улица",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Белоярский городской округ",
+                        "Locality": {
+                          "LocalityName": "посёлок Белоярская Застава",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "посёлок Белоярская Застава, Белоярский городской округ, Свердловская область, Россия",
+            "name": "Заводская улица",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.928468 56.766139",
+                "upperCorner": "60.928737 56.766835"
+              }
+            },
+            "Point": {
+              "pos": "60.928701 56.766489"
+            }
+          }
+        },
+        {
+          "GeoObject": {
+            "metaDataProperty": {
+              "GeocoderMetaData": {
+                "kind": "house",
+                "text": "Россия, Свердловская область, Сысертский городской округ, поселок Большой Исток, Заводская улица, 24",
+                "precision": "near",
+                "Address": {
+                  "country_code": "RU",
+                  "postal_code": "624006",
+                  "formatted": "Свердловская область, Сысертский городской округ, поселок Большой Исток, Заводская улица, 24",
+                  "Components": [
+                    {
+                      "kind": "country",
+                      "name": "Россия"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Уральский федеральный округ"
+                    },
+                    {
+                      "kind": "province",
+                      "name": "Свердловская область"
+                    },
+                    {
+                      "kind": "area",
+                      "name": "Сысертский городской округ"
+                    },
+                    {
+                      "kind": "locality",
+                      "name": "поселок Большой Исток"
+                    },
+                    {
+                      "kind": "street",
+                      "name": "Заводская улица"
+                    },
+                    {
+                      "kind": "house",
+                      "name": "24"
+                    }
+                  ]
+                },
+                "AddressDetails": {
+                  "Country": {
+                    "AddressLine": "Свердловская область, Сысертский городской округ, поселок Большой Исток, Заводская улица, 24",
+                    "CountryNameCode": "RU",
+                    "CountryName": "Россия",
+                    "AdministrativeArea": {
+                      "AdministrativeAreaName": "Свердловская область",
+                      "SubAdministrativeArea": {
+                        "SubAdministrativeAreaName": "Сысертский городской округ",
+                        "Locality": {
+                          "LocalityName": "поселок Большой Исток",
+                          "Thoroughfare": {
+                            "ThoroughfareName": "Заводская улица",
+                            "Premise": {
+                              "PremiseNumber": "24",
+                              "PostalCode": {
+                                "PostalCodeNumber": "624006"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "description": "поселок Большой Исток, Сысертский городской округ, Свердловская область, Россия",
+            "name": "Заводская улица, 24",
+            "boundedBy": {
+              "Envelope": {
+                "lowerCorner": "60.772583 56.717777",
+                "upperCorner": "60.780794 56.722291"
+              }
+            },
+            "Point": {
+              "pos": "60.776688 56.720034"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
